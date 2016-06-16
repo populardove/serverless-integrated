@@ -11,6 +11,7 @@
   },
   "dependencies": {
     "serverless-mocha-plugin": "^0.5.8",
+    "serverless-offline": "^2.5.3",
     "serverless-optimizer-plugin": "^2.0.0"
   },
   "description": "A bare bones Serverless Framework project with examples for common use cases.",
