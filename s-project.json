@@ -2,7 +2,9 @@
   "name": "serverless-starter",
   "custom": {},
   "plugins": [
-    "serverless-optimizer-plugin", "serverless-mocha-plugin", "serverless-offline"
+    "serverless-optimizer-plugin",
+    "serverless-mocha-plugin",
+    "serverless-offline"
   ],
   "version": "0.2.0",
   "profile": "serverless-v0.5.0",
