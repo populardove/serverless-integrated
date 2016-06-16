@@ -10,6 +10,8 @@
     "url": "https://github.com/serverless/serverless-starter/issues"
   },
   "dependencies": {
+    "serverless": "^0.5.6",
+    "serverless-meta-sync": "^0.1.0",
     "serverless-mocha-plugin": "^0.5.8",
     "serverless-offline": "^2.5.3",
     "serverless-optimizer-plugin": "^2.0.0"
